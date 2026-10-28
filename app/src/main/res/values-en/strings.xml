@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Solitaire</string>
+    <string name="game_title">Klondike Solitaire</string>
+    <string name="moves_label">Moves</string>
+    <string name="score_label">Score</string>
+    <string name="time_label">Time</string>
+    <string name="new_game">New Game</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="hint">Hint</string>
+    <string name="undo">Undo</string>
+    <string name="settings">Settings</string>
+    <string name="stats">Statistics</string>
+    <string name="victory_title">Victory!</string>
+    <string name="victory_subtitle">You completed Solitaire</string>
+    <string name="play_again">Play Again</string>
+    <string name="difficulty_label">Draw Mode</string>
+    <string name="draw_one">Draw 1 Card (Easy)</string>
+    <string name="draw_three">Draw 3 Cards (Standard)</string>
+    <string name="winnable_deals">Guaranteed Winnable Deals</string>
+    <string name="all_deals">Classic Random Deals</string>
+    <string name="theme_table">Table Felt</string>
+    <string name="theme_cards">Card Back Style</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="haptics">Haptic Feedback</string>
+    <string name="auto_finish">Smart Auto-Complete</string>
+</resources>

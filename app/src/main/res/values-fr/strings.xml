@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Solitaire</string>
+    <string name="game_title">Solitaire Klondike</string>
+    <string name="moves_label">Coups</string>
+    <string name="score_label">Score</string>
+    <string name="time_label">Temps</string>
+    <string name="new_game">Nouvelle Partie</string>
+    <string name="restart_game">Recommencer</string>
+    <string name="hint">Indice</string>
+    <string name="undo">Annuler</string>
+    <string name="settings">Paramètres</string>
+    <string name="stats">Statistiques</string>
+    <string name="victory_title">Victoire !</string>
+    <string name="victory_subtitle">Vous avez terminé le Solitaire</string>
+    <string name="play_again">Rejouer</string>
+    <string name="difficulty_label">Mode de Pioche</string>
+    <string name="draw_one">Tirer 1 Carte (Facile)</string>
+    <string name="draw_three">Tirer 3 Cartes (Standard)</string>
+    <string name="winnable_deals">Donnes Solubles Garanties</string>
+    <string name="all_deals">Donnes Aléatoires Classiques</string>
+    <string name="theme_table">Tapis de Jeu</string>
+    <string name="theme_cards">Dos de Carte</string>
+    <string name="dark_mode">Mode Sombre</string>
+    <string name="haptics">Retour Haptique</string>
+    <string name="auto_finish">Fin Automatique</string>
+</resources>

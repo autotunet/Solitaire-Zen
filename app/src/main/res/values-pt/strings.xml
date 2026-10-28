@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Paciência</string>
+    <string name="game_title">Paciência Klondike</string>
+    <string name="moves_label">Movimentos</string>
+    <string name="score_label">Pontos</string>
+    <string name="time_label">Tempo</string>
+    <string name="new_game">Novo Jogo</string>
+    <string name="restart_game">Reiniciar Jogo</string>
+    <string name="hint">Dica</string>
+    <string name="undo">Desfazer</string>
+    <string name="settings">Configurações</string>
+    <string name="stats">Estatísticas</string>
+    <string name="victory_title">Vitória!</string>
+    <string name="victory_subtitle">Você completou o jogo</string>
+    <string name="play_again">Jogar novamente</string>
+    <string name="difficulty_label">Modo de Compra</string>
+    <string name="draw_one">Comprar 1 Carta (Fácil)</string>
+    <string name="draw_three">Comprar 3 Cartas (Padrão)</string>
+    <string name="winnable_deals">Partidas Solucionáveis Garantidas</string>
+    <string name="all_deals">Partidas Aleatórias Clássicas</string>
+    <string name="theme_table">Mesa de Jogo</string>
+    <string name="theme_cards">Estilo do Verso</string>
+    <string name="dark_mode">Modo Escuro</string>
+    <string name="haptics">Vibração Tátil</string>
+    <string name="auto_finish">Conclusão Automática</string>
+</resources>

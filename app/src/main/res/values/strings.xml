@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Solitario</string>
+    <string name="game_title">Solitario Klondike</string>
+    <string name="moves_label">Movimientos</string>
+    <string name="score_label">Puntuación</string>
+    <string name="time_label">Tiempo</string>
+    <string name="new_game">Nueva partida</string>
+    <string name="restart_game">Reiniciar partida</string>
+    <string name="hint">Pista</string>
+    <string name="undo">Deshacer</string>
+    <string name="settings">Ajustes</string>
+    <string name="stats">Estadísticas</string>
+    <string name="victory_title">¡Victoria!</string>
+    <string name="victory_subtitle">Has completado el Solitario</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="difficulty_label">Modo de robo</string>
+    <string name="draw_one">Robar 1 carta (Fácil)</string>
+    <string name="draw_three">Robar 3 cartas (Estándar)</string>
+    <string name="winnable_deals">Repartos con solución garantizada</string>
+    <string name="all_deals">Repartos aleatorios clásicos</string>
+    <string name="theme_table">Tapete de juego</string>
+    <string name="theme_cards">Estilo de cartas</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="haptics">Vibración háptica</string>
+    <string name="auto_finish">Autocompletar al revelar todo</string>
+</resources>

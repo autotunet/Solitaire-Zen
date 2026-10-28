@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Solitario</string>
+    <string name="game_title">Solitario Klondike</string>
+    <string name="moves_label">Mosse</string>
+    <string name="score_label">Punti</string>
+    <string name="time_label">Tempo</string>
+    <string name="new_game">Nuova Partita</string>
+    <string name="restart_game">Ricomincia</string>
+    <string name="hint">Suggerimento</string>
+    <string name="undo">Annulla</string>
+    <string name="settings">Impostazioni</string>
+    <string name="stats">Statistiche</string>
+    <string name="victory_title">Vittoria!</string>
+    <string name="victory_subtitle">Hai completato il Solitario</string>
+    <string name="play_again">Gioca ancora</string>
+    <string name="difficulty_label">Modalità di Pesca</string>
+    <string name="draw_one">Pesca 1 Carta (Facile)</string>
+    <string name="draw_three">Pesca 3 Carte (Standard)</string>
+    <string name="winnable_deals">Partite Risolvibili Garantite</string>
+    <string name="all_deals">Partite Casuali Classiche</string>
+    <string name="theme_table">Tappeto di Gioco</string>
+    <string name="theme_cards">Stile Dorso</string>
+    <string name="dark_mode">Modalità Scura</string>
+    <string name="haptics">Vibrazione Aptica</string>
+    <string name="auto_finish">Completamento Intelligente</string>
+</resources>

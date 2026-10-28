@@ -1,0 +1,6 @@
+{
+  "name": "Solitario Elegante",
+  "description": "Juego de Solitario Klondike moderno y minimalista con animaciones fluidas, modo oscuro, cartas con profundidad 3D, pistas inteligentes y temas personalizables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
